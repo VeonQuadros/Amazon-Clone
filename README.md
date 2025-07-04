@@ -38,10 +38,3 @@ This project was built by following a tutorial from **Apna College's YouTube cha
 - Fonts and icons from Amazon’s original design (visually inspired)
 
 ---
-
-## 🖼️ Screenshots
-
-*Add a few screenshots here if available, using the format below:*
-
-```md
-![Homepage](screenshots/homepage.png)
